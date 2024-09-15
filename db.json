@@ -1,9 +1,128 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "words": [
+      {
+          "wordValue": "Mango",
+          "wordCategory": "A Fruit"
+      },
+      {
+          "wordValue": "Banana",
+          "wordCategory": "A Fruit"
+      },
+      {
+          "wordValue": "India",
+          "wordCategory": "A Country"
+      },
+      {
+          "wordValue": "Elephant",
+          "wordCategory": "An Animal"
+      },
+      {
+          "wordValue": "Rose",
+          "wordCategory": "A Flower"
+      },
+      {
+          "wordValue": "Soccer",
+          "wordCategory": "A Sport"
+      },
+      {
+          "wordValue": "Tesla",
+          "wordCategory": "A Car Brand"
+      },
+      {
+          "wordValue": "Everest",
+          "wordCategory": "A Mountain"
+      },
+      {
+          "wordValue": "Python",
+          "wordCategory": "A Programming Language"
+      },
+      {
+          "wordValue": "Shakespeare",
+          "wordCategory": "A Playwright"
+      },
+      {
+          "wordValue": "Mozart",
+          "wordCategory": "A Composer"
+      },
+      {
+          "wordValue": "Eiffel Tower",
+          "wordCategory": "A Landmark"
+      },
+      {
+          "wordValue": "Saturn",
+          "wordCategory": "A Planet"
+      },
+      {
+          "wordValue": "Volleyball",
+          "wordCategory": "A Game"
+      },
+      {
+          "wordValue": "Piano",
+          "wordCategory": "An Instrument"
+      },
+      {
+          "wordValue": "Nile",
+          "wordCategory": "A River"
+      },
+      {
+          "wordValue": "Wolf",
+          "wordCategory": "A Wild Creature"
+      },
+      {
+          "wordValue": "Eagle",
+          "wordCategory": "A Bird"
+      },
+      {
+          "wordValue": "Chocolate",
+          "wordCategory": "A Food"
+      },
+      {
+          "wordValue": "Microsoft",
+          "wordCategory": "A Company"
+      },
+      {
+          "wordValue": "Picasso",
+          "wordCategory": "An Artist"
+      },
+      {
+          "wordValue": "Spaghetti",
+          "wordCategory": "A Dish"
+      },
+      {
+          "wordValue": "Tesla",
+          "wordCategory": "A Scientist"
+      },
+      {
+          "wordValue": "Ferrari",
+          "wordCategory": "A Vehicle Brand"
+      },
+      {
+          "wordValue": "Himalayas",
+          "wordCategory": "A Region"
+      },
+      {
+          "wordValue": "Parrot",
+          "wordCategory": "A Type of Animal"
+      },
+      {
+          "wordValue": "Oxygen",
+          "wordCategory": "A Substance"
+      },
+      {
+          "wordValue": "Ninja",
+          "wordCategory": "A Profession"
+      },
+      {
+          "wordValue": "Jazz",
+          "wordCategory": "A Music Genre"
+      },
+      {
+          "wordValue": "Louvre",
+          "wordCategory": "A Place"
+      },
+      {
+          "wordValue": "Venus",
+          "wordCategory": "A Celestial Body"
+      }
+  ]
 }
